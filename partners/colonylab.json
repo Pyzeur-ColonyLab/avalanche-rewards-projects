@@ -2,7 +2,6 @@
     "name": "Colony Lab",
     "description": "Colony Lab empowers projects with decentralized fundraising and liquidity, while giving the community diverse exposure to Avalanche’s growth—all on a single platform. From seed investment opportunities to AVAX/DeFi rewards, airdrops, and more, Colony Lab brings everything together under one roof.",
     "featuredImgUrl": "https://colony-assets.s3.eu-central-1.amazonaws.com/Colony_logo.png",
-    "bannerImgUrl": "https://colony-assets.s3.eu-central-1.amazonaws.com/Colony_banner.png",
     "missions": [
         {
             "name": "Stake $CLY",
